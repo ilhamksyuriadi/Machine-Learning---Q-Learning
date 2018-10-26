@@ -10,3 +10,4 @@ Goal: The agent reach the 10x10 coordinate from 1x1 coordinate and get the maxim
 Hint:
 1. The code will show the episode running, optimum policy and reward total
 2. Read the Guide.txt to know what you can do with this code
+3. To figure the result out, i put the result in a image file with name Optimum Policy.JPG

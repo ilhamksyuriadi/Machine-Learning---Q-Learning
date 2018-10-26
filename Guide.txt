@@ -1,0 +1,2 @@
+Run the code, it will show you the best policy.
+The episode will run 1000 times, you can change it on variable episode on line 104
